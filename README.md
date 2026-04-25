@@ -14,6 +14,7 @@ AlpG2308 = {"FirstName":"Alpcan",
 
 ---
 
-> **Identifying data driven system trajectories based on first principles and invariant identification.**
-*It's not a bug, it's a feature.* 🪳
+**Data driven insights based on first principles and invariant identification.**
+
+> *It's not a bug, it's a feature.* 🪳
 
