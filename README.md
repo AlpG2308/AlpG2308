@@ -1,16 +1,19 @@
 # Hi, I'm Alpcan! 👨‍🔬 👋
 ---
 
-**Master Student in Life Sciences** *@University of Konstanz, Germany*
+**Master of Science in Life Sciences** *@University of Konstanz, Germany*
 
 ```python
 AlpG2308 = {"FirstName":"Alpcan",
 "SecondName" : "Önür",
 "Languages" : ["German","Turkish","English"],
-"Code" : ["Python","SQL"],
-"Currently_Learning" : "Rust",
-"Coding_Interest":["WorkingWithData", "EmbeddedProgramming"]}
+"Code" : ["Python","SQL","Rust","Rust-Embassy"],
+"Currently_Learning" : "Verilog, LLVM-MLIR",
+"Coding_Interest":["DigitalSignalProcessing", "EmbeddedProgramming","EdgeComputing"]}
 ```
 
-*It's not a bug, it's a feature* 🪳
+---
+
+> **Identifying data driven system trajectories based on first principles and invariant identification.**
+*It's not a bug, it's a feature.* 🪳
 
